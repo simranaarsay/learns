@@ -27,6 +27,3 @@ console.log(amountJanice);
 console.log(totalAmount);
 
 console.log(totalWithTax);
-
-
-
