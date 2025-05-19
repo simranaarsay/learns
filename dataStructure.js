@@ -30,6 +30,8 @@ console.log(totalWithTax);
 
 
 
+//here on this i can use tax as a global func
+//lets say i have two janice , one above and other one with customise order, these are regular and orders remains the same 
 
 
 
