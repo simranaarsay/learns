@@ -11,13 +11,6 @@ for (let x = 0; x <squares.length; x++) {
 console.log(k)
 
 
-
-
-
-
-
-
-
 //print the first , middle and last element of the array
 
 let nums  = [1,2,3,4,5]
@@ -30,7 +23,12 @@ console.log(firstElement);
 console.log(middleElement, );
 console.log(LastElement);
 
+console.log(" ------------------------------");
 
 
+//creating a loop which prints all the elements of the array nums
+for (let i = 0 ; i <= nums.length; i ++) {
+    console.log(i);
+}
 
 
