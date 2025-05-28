@@ -8,4 +8,29 @@ for (let x = 0; x <squares.length; x++) {
     k = k + squares[x]
 
 }
-console.log (k)
+console.log(k)
+
+
+
+
+
+
+
+
+
+//print the first , middle and last element of the array
+
+let nums  = [1,2,3,4,5]
+let firstElement = nums[0];
+let middleElement = nums [Math.floor(nums.length /2)] ;
+let LastElement = nums [nums.length -1 ];
+
+
+console.log(firstElement);
+console.log(middleElement, );
+console.log(LastElement);
+
+
+
+
+
